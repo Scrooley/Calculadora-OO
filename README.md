@@ -17,7 +17,7 @@ Projeto sobre uma calculadora(oo) com foco no JFrame Form. <br/>
 <br>
 
 <p align="center">
-  <img alt="calculadora" src=".github/preview.png" width="37%">
+  <img alt="calculadora" src=".github/preview.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
